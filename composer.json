@@ -1,5 +1,5 @@
 {
-    "name": "yasser/yalidine",
+    "name": "yasser/laravel-yalidine-dz-api",
     "description": "Yalidine API",
     "license": "MIT",
     "require": {
